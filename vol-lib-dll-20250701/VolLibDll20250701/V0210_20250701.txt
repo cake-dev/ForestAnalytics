@@ -1,0 +1,37 @@
+
+                           VOLUME ESTIMATOR LIBRARY BULLETIN
+                                      Issued By: Yingfang Wang
+
+                        MENSURATION AND SYSTEMS DEVELOPMENT SECTION
+                             FOREST MANAGEMENT SERVICE CENTER
+                                     FT. COLLINS, CO
+
+      BULLETIN NO: V0210_20250701
+     
+      DATE: 07-01-2025
+
+      ROUTINE(S): 
+
+	Modified routines:
+		nsvb.f
+		r8vol2.f
+		r2oldv.f
+		blmvol.f
+		profile.f
+		profile2.f
+		r10vol1.f
+		numlog.f
+		
+	New routines:
+		
+            
+     MAIN TOPIC: 
+	(1) Modified nsvb.f to add default DECAYCD = 3 for dead trees and made correction in NVB_BrchRem subroutine
+	(2) checked max number logs (20) for profile model to avoid program crash
+
+     RESULT/IMPACT: 
+        (1) NSVB equation for dead tree without DECAYCD
+	(2) Tree with more than 20 logs will return error and no volume calculation.
+
+     Getting downloads:
+	https://github.com/FMSC-Measurements/VolumeLibrary
