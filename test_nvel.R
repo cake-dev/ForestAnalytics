@@ -1,5 +1,5 @@
 # load the dll
-path_to_dll <- "C:\\Users\\jb240893\\Downloads\\vol-lib-dll-20250701\\VolLibDll20250701\\vollib64" # change this for your machine as needed
+path_to_dll <- "D:\\downloaded\\forest_analytics\\vol-lib-dll-20250701\\VolLibDll20250701\\vollib64" # change this for your machine as needed
 dyn.load(file.path(path_to_dll,"vollib.dll"))
 
 # get version number of Fortran (just fyi)
