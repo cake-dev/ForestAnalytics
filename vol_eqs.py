@@ -369,7 +369,7 @@ class VollibWrapper:
 if __name__ == '__main__':
     # IMPORTANT: Update this path to the location of your vollib DLL file
     # Ensure you use the correct version (vollib.dll for 32-bit Python, vollib64.dll for 64-bit)
-    dll_file_path = r"D:/downloaded/forest_analytics/vol-lib-dll-20250701/VolLibDll20250701/vollib64/vollib.dll"
+    dll_file_path = r"S:/projects/Fall2025/ForestAnalytics/ForestAnalytics/vol-lib-dll-20250701/VolLibDll20250701/vollib64/vollib.dll"
 
     try:
         # 1. Create an instance of the wrapper
@@ -420,17 +420,29 @@ if __name__ == '__main__':
         carbon = vol_estimator.calc_carbon_content(**biomass_params)
         print(f"Carbon Content: {carbon:.1f} lbs")
 
-        # --- 4. Or, get a full report with taper data ---
-        print("\n--- Full Report ---")
-        full_report = vol_estimator.get_full_report(
-             **tree_params,
-             merch_top_dib_primary=6.0
-        )
-        print(f"Volume Equation Used: {full_report['voleq']}")
-        print(f"Total cuft: {full_report['total_cuft']:.2f}")
-        print(f"Merch BF: {full_report['merch_board_feet_primary']:.0f}")
-        print("\nTaper Profile:")
-        print(full_report['taper_data'].to_string(index=False))
+        # calc all biomass components
+        agb_dry = vol_estimator.calc_wt_above_ground_biomass('dry', **biomass_params)
+        total_stem = vol_estimator.calc_wt_total_stem('dry', **biomass_params)
+        merch_stem = vol_estimator.calc_wt_merch_stem('dry', **biomass_params)
+        branches = vol_estimator.calc_wt_branches('dry', **biomass_params)
+        foliage = vol_estimator.calc_wt_foliage('dry', **biomass_params)
+        print(f"Above Ground Biomass (Dry): {agb_dry:.1f} lbs")
+        print(f"Total Stem Biomass (Dry): {total_stem:.1f} lbs")
+        print(f"Merchantable Stem Biomass (Dry): {merch_stem:.1f} lbs")
+        print(f"Branch Biomass (Dry): {branches:.1f} lbs")
+        print(f"Foliage Biomass (Dry): {foliage:.1f} lbs")
+
+        # # --- 4. Or, get a full report with taper data ---
+        # print("\n--- Full Report ---")
+        # full_report = vol_estimator.get_full_report(
+        #      **tree_params,
+        #      merch_top_dib_primary=6.0
+        # )
+        # print(f"Volume Equation Used: {full_report['voleq']}")
+        # print(f"Total cuft: {full_report['total_cuft']:.2f}")
+        # print(f"Merch BF: {full_report['merch_board_feet_primary']:.0f}")
+        # print("\nTaper Profile:")
+        # print(full_report['taper_data'].to_string(index=False))
 
     except (OSError, ValueError) as e:
         print(f"\nAn error occurred: {e}")
