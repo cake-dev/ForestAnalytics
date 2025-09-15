@@ -250,7 +250,7 @@ print("\n" + "="*60)
 print("TASK 5: Plot Aggregation and Volume Histogram")
 print("="*60)
 
-plot_size_acres = 1/24  # For trees ≥ 5" DBH
+plot_size_acres = 1/9.98  # For trees ≥ 5" DBH
 expansion_factor = 1 / plot_size_acres
 
 total_ba_per_acre = live_trees['basalAreasqft'].sum() * expansion_factor

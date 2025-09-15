@@ -551,7 +551,7 @@ if __name__ == '__main__':
         print("\n--- Full Report with High-Resolution Taper ---")
         full_report = vol_estimator.get_full_report(
              **tree_params,
-             merch_top_dib_primary=6.0
+             merch_top_dib_primary=4.0
         )
         print(f"Volume Equation Used: {full_report['voleq']}")
         print(f"Total cuft: {full_report['total_cuft']:.2f}")
