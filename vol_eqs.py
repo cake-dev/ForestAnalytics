@@ -369,7 +369,7 @@ class VollibWrapper:
 if __name__ == '__main__':
     # IMPORTANT: Update this path to the location of your vollib DLL file
     # Ensure you use the correct version (vollib.dll for 32-bit Python, vollib64.dll for 64-bit)
-    dll_file_path = r"S:/projects/Fall2025/ForestAnalytics/ForestAnalytics/vol-lib-dll-20250701/VolLibDll20250701/vollib64/vollib.dll"
+    dll_file_path = r"D:/downloaded/forest_analytics/vol-lib-dll-20250701/VolLibDll20250701/vollib64/vollib.dll"
 
     try:
         # 1. Create an instance of the wrapper
