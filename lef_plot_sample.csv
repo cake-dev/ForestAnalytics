@@ -1,0 +1,1204 @@
+Year	PlotID	TreeID	unique_tree	group	Species	Status	StatusNote	DecayClass	DBH	TotalLen	ActualLen	BoleLen	DOB_break	Defect	Comments
+2018	12	1	153	Survivor	202	1			24.8	90		79			
+2018	12	2	154	Survivor	202	1			5.4	32		11			
+2018	12	3	155	Survivor	202	1			7.1	48		29			
+2018	12	4	156	Survivor	202	1			6.2	42		15			
+2018	12	5	157	Survivor	202	1			14	64		52			
+2018	12	6	158	Survivor	202	1			20.9	74		63			s24
+2018	12	7	159	Survivor	202	1			13.9	64		53			bd17.7s30sd38.02
+2018	12	8	160	Survivor	202	1			12.2	64		55			
+2018	12	9	161	Survivor	202	1			9.9	61		47			
+2018	12	10	162	Survivor	202	1			8.2	54		42			
+2018	12	11	163	Survivor	202	1			9.4	61		52			
+2018	12	12	164	Survivor	73	1			9.5	70		53			
+2018	12	13	165	Mortality_Downed	202	1			5.8	51		37			stillattachee
+2018	12	14	166	Survivor	202	1			7.1	50		35			htsest
+2018	12	15	167	Survivor	202	1			10.5	67		55			
+2018	12	16	168	Survivor	202	1			9.5	59		48			
+2018	12	17	169	Survivor	202	1			6.3	43		21			
+2018	12	18	170	Survivor	202	1			6.8	48		31			esthts
+2018	12	19	171	Survivor	202	1			8.7	57		43			pt4.97dbh
+2018	12	20	172	Dead_Downed	202	2		1	5.3	42		13			
+2018	12	21	173	Mortality_Downed	202	1			5.6	48		30			
+2018	12	22	174	Mortality_But_Standing	202	1			7.8	55	28	39	6		topongdlvcmb
+2018	12	23	175	Survivor	202	1			7.7	55		40			
+2018	12	24	176	Survivor	202	1			6.8	48		30			
+2018	12	25	177	Mortality_But_Standing	202	1			7.1	54	20	35	5		topongd
+2018	12	26	178	Mortality_Downed	202	1			6.7	52	13	35	5		t3474dead
+2018	12	27	179	Mortality_Downed	202	1			7.8	56		41			ongdattchd
+2018	12	28	180	Survivor	202	1			5.2	33		11			
+2018	12	29	181	Survivor	202	1			8.2	53		37			
+2018	12	30	182	Mortality_Downed	202	1			8	52	15	34	6		topongd
+2018	12	31	183	Survivor	202	1			11.5	62		51			
+2018	12	32	184	Survivor	202	1			11.7	63		50			
+2018	12	33	185	Survivor	202	1			8.3	50		32			
+2018	12	34	186	Survivor	202	1			5.7	43		17			
+2018	12	35	187	Survivor	202	1			13.3	69		59			
+2018	20	1	295	Survivor	202	1			11.1	68	50	54	5		topongrd
+2018	20	2	296	Survivor	202	1			9.1	65		49			
+2018	20	3	297	Mortality_But_Standing	73	1			6.4	48		24			
+2018	20	4	298	Survivor	202	1			20	71		64		1	
+2018	20	5	299	Survivor	73	1			6.2	36		18			recvd
+2018	20	6	300	Survivor	73	1			7.2	68		47			
+2018	20	7	301	Survivor	73	1			6.3	51		30			
+2018	20	8	302	Survivor	73	1			8.6	73		54			
+2018	20	9	303	Survivor	202	1			10.9	66		49			
+2018	20	10	304	Survivor	202	1			9.3	47		28			s30rcvd
+2018	20	11	305	Survivor	73	1			8.7	66		51			
+2018	20	12	306	Survivor	202	1			11.7	60		50			rcvd
+2018	20	13	307	Survivor	73	1			7.1	57		31			
+2018	20	14	308	Survivor	202	1			7.8	52		33			
+2018	20	15	309	Survivor	202	1			12.7	77		67			
+2018	20	16	310	Survivor	202	1			13.5	77		66			
+2018	20	17	311	Survivor	202	1			17.4	84		71			
+2018	20	18	312	Survivor	202	1			6.6	37		17			
+2018	20	19	313	Survivor	73	1			9.8	79		60			
+2018	20	20	314	Survivor	202	1			8.7	53		35			rcvd
+2018	20	21	315	Survivor	202	1			20.5	73		60			rcvd
+2018	20	22	316	Dead_Still_Standing	73	2		2	5.2	37		12			
+2018	20	23	317	Dead_Still_Standing	73	2		1	5.8	43		19			
+2018	20	24	318	Survivor	202	1			12	78		63			
+2018	20	25	319	Survivor	202	1			14.1	81		70			
+2018	20	26	320	Survivor	73	1			10.2	73		56			
+2018	20	27	321	Mortality_But_Standing	202	1			5.7	30		17		1	
+2018	28	1	441	Survivor	73	1			9	65		51			
+2018	28	2	442	Cut_Live	73	1			5.4	49		28			
+2018	28	3	443	Cut_Live	73	1			6.1	53		39			
+2018	28	4	444	Cut_Live	73	1			5.7	55		33			
+2018	28	5	445	Cut_Live	202	1			5.6	39		21			
+2018	28	6	446	Cut_Live	73	1			6	56		37			
+2018	28	7	447	Survivor	73	1			5.2	51		16			
+2018	28	8	448	Cut_Live	73	1			5.5	45		17			
+2018	28	9	449	Survivor	73	1			8.5	65		52			
+2018	28	10	450	Survivor	73	1			10.7	69		53			
+2018	28	11	451	Survivor	73	1			9.6	68		51			
+2018	28	12	452	Survivor	73	1			10	67		51			
+2018	28	13	453	Cut_Live	73	1			5.6	41		15			
+2018	28	14	454	Cut_Live	73	1			5.8	46		18			
+2018	28	15	455	Survivor	73	1			7.5	47		31			
+2018	28	16	456	Survivor	73	1			9.5	64		49			
+2018	28	17	457	Survivor	73	1			7	51		28			
+2018	28	18	458	Cut_Live	202	1			16.6	67		55			
+2018	28	19	459	Survivor	202	1			10.5	51		35			
+2018	28	20	460	Survivor	73	1			12.4	67		53			
+2018	28	21	461	Survivor	202	1			15.6	69		54			
+2018	28	22	462	Survivor	73	1			4.3						
+2018	28	23	463	OffPlot_Live	202	1			3						
+2018	38	1	557	Survivor	202	1			21.2	83		72			
+2018	38	2	558	Survivor	122	1			19.8	78		67			
+2018	38	3	559	Survivor	202	1			7.4	45		25			
+2018	38	4	560	Survivor	202	1			8.8	43		31			
+2018	38	5	561	Survivor	122	1			20.1	82		72			
+2018	38	6	562	Dead_Downed	108	2		1	12.9	60		47			
+2018	38	7	563	Survivor	202	1			12.2	70		57			
+2018	38	8	564	Survivor	202	1			22.4	84		76			
+2018	38	9	565	Survivor	202	1			17.4	82		69			
+2018	42	1	576	Survivor	202	1			6.6	35		15			
+2018	57	1	722	Survivor	202	1			13.5	72		59			
+2018	57	2	723	Survivor	122	1			14	78		66			
+2018	57	3	724	Survivor	122	1			11.1	71		59			
+2018	57	4	725	Survivor	122	1			13.5	78		64			
+2018	57	5	726	Survivor	122	1			15	80		66			
+2018	57	6	727	Survivor	202	1			12.6	61		46			
+2018	57	7	728	Survivor	202	1			12.3	66		55			seam
+2018	57	8	729	Survivor	122	1			9.8	66		50			
+2018	57	9	730	Survivor	122	1			18	78		62			
+2018	57	10	731	Survivor	122	1			1						
+2018	57	11	732	Survivor	122	1			2.6						
+2018	57	12	733	Survivor	122	1			1.8						
+2018	57	13	734	Survivor	122	1			2.6						bd3.3sd11.44
+2018	57	14	735	Survivor	202	1			1.6						
+2018	57	15	736	Survivor	122	1			1.1						
+2018	57	16	737	Survivor	202	1			1.5						
+2018	57	17	738	Survivor	202	1			1.4						
+2018	57	18	739	Survivor	202	1			1.8						
+2018	57	19	740	Survivor	202	1			1.3						
+2018	57	20	741	Survivor	122	1			2.4						
+2018	57	21	742	Mortality_Downed	122	1			1.7						
+2018	57	22	743	Survivor	202	1			1.4						leaner
+2018	57	23	744	Survivor	202	1			1.2						leaner
+2018	57	24	745	Survivor	122	1			1.7						
+2018	57	25	746	Survivor	122	1			1.1						
+2018	57	26	747	Survivor	122	1			1.3						
+2018	57	27	748	Survivor	122	1			2.5						
+2018	57	28	749	Survivor	122	1			2.1						
+2018	57	29	750	Survivor	122	1			1.3						pistolbutt
+2018	70	1	934	Survivor	122	1			7.3	37		25			
+2018	70	2	935	Survivor	202	1			12.5	58		49			
+2018	70	3	936	Survivor	122	1			9.5	51		38			
+2018	70	4	937	Survivor	122	1			8.6	48		36			
+2018	70	5	938	Survivor	122	1			12.2	56		46			
+2018	70	6	939	Survivor	122	1			8.6	50		38			
+2018	70	7	940	Survivor	122	1			7.8	47		32			
+2018	70	8	941	Survivor	122	1			10	55		44			
+2018	70	9	942	Survivor	122	1			5.5	30		19			
+2018	70	10	943	Survivor	202	1			12.3	56		48			
+2018	70	11	944	Survivor	202	1			11.9	63		54			
+2018	70	12	945	Survivor	202	1			8.2	45		29			
+2018	80	1	1086	Dead_Downed	350	2		2	5.3	22	21	7	1		newleader
+2018	80	2	1087	Dead_Still_Standing	202	2		3	19.2	70	22	50	13	4	treeforked
+2018	80	3	1088	Survivor	202	1			22.8	80		66			
+2018	80	4	1089	Survivor	202	1			13.1	56		34			
+2018	80	5	1090	Survivor	202	1			2.4						
+2018	81	1	1091	Survivor	108	1			6.5	50		35			
+2018	81	2	1092	Survivor	108	1			5.4	48		35			
+2018	81	3	1093	Survivor	108	1			6.2	48		33			
+2018	81	4	1094	Survivor	108	1			5	48		29			
+2018	81	5	1095	Survivor	108	1			5.5	48		36			
+2018	81	6	1096	Dead_Downed	108	2		2	6.5	48		37			
+2018	81	7	1097	Dead_Downed	108	2		2	7	49		37			
+2018	81	8	1098	Dead_Downed	108	2		2	6.7	48		36			
+2018	81	9	1099	Dead_Downed	108	2		2	5.8	45		29			
+2018	81	10	1100	Dead_Downed	108	2		1	5.7	49		29			
+2018	81	11	1101	Survivor	108	1			6.6	47		31			
+2018	81	12	1102	Dead_Downed	108	2		2	5.6	48		32		1	
+2018	81	13	1103	Dead_Downed	108	2		2	7	49		35			
+2018	81	14	1104	Dead_Downed	108	2		2	6.4	51		39			
+2018	81	15	1105	Survivor	108	1			6.3	50		34			
+2018	81	16	1106	Survivor	108	1			8	55		44			
+2018	81	17	1107	Survivor	108	1			6.8	58		43			
+2018	81	18	1108	Survivor	108	1			7.3	55		42			
+2018	81	19	1109	Dead_Still_Standing	108	2		2	7.3	48		32			
+2018	81	20	1110	Survivor	108	1			5.5	46		28			
+2018	81	21	1111	Survivor	108	1			7.5	58		47			
+2018	81	22	1112	Survivor	108	1			7.1	53		39			
+2018	81	23	1113	Survivor	108	1			7.3	54		42			
+2018	81	24	1114	Dead_Downed	108	2		2	6.1	52		39			
+2018	81	25	1115	Survivor	108	1			7.8	55		41			
+2018	81	26	1116	Survivor	108	1			6.3	49		37			
+2018	81	27	1117	Survivor	108	1			7.7	49		39			
+2018	81	28	1118	Survivor	108	1			6.4	45		35			
+2018	81	29	1119	Dead_Downed	108	2		1	8.7	52		37			
+2018	81	30	1120	Survivor	108	1			9	49		38			
+2018	81	31	1121	Survivor	108	1			5.2	45		26			
+2018	81	32	1122	Survivor	108	1			7.6	46		32			
+2018	81	33	1123	Survivor	202	1			5	22		11			
+2018	81	34	1124	Survivor	108	1			5.9	40		26			
+2018	81	35	1125	Dead_Downed	108	2		2	6.6	43		30			
+2018	81	36	1126	Survivor	108	1			6.3	47		29			
+2018	81	37	1127	Dead_Downed	108	2		2	6.2	39		25			
+2018	81	38	1128	Survivor	108	1			6.6	48		34			
+2018	81	39	1129	Survivor	108	1			6.4	49		37			
+2018	81	40	1130	Survivor	108	1			8	46		34			
+2018	81	41	1131	Survivor	108	1			5	41		25			
+2018	81	42	1132	Survivor	108	1			4.3						
+2018	81	43	1133	Survivor	202	1			2.8						
+2018	81	44	1134	Survivor	108	1			4.1						
+2018	110	1	1671	Survivor	202	1			14.5	67		55			
+2018	110	2	1672	Survivor	202	1			11.9	66		57			
+2018	110	3	1673	Survivor	202	1			12.7	72		64			
+2018	110	4	1674	Survivor	202	1			8.5	68		56			
+2018	110	5	1675	Dead_Still_Standing	73	2		3	9.7	69		58			
+2018	110	6	1676	Survivor	202	1			16.7	79		65			
+2018	110	7	1677	OffPlot_Live	202	1			12.4	69	35	59	8		
+2018	110	8	1678	Survivor	202	1			14.5	78		66			
+2018	110	9	1679	Mortality_But_Standing	202	1			13.3	74	39	63	9		
+2018	110	10	1680	Survivor	202	1			11.4	80		70			
+2018	110	11	1681	Survivor	202	1			12.8	79		69			
+2018	110	12	1682	Survivor	202	1			11	80		68			
+2018	110	13	1683	Survivor	202	1			14.3	83		72			
+2018	110	14	1684	Mortality_But_Standing	202	1			8.7	57		48			
+2018	110	15	1685	Survivor	73	1			11.6	83		72			
+2018	110	16	1686	Survivor	73	1			12.6	75	57	63	5		
+2018	110	17	1687	Mortality_But_Standing	73	1			6.4	45	40	29	2		almostdead
+2018	110	18	1688	Survivor	73	1			15.2	82		69			
+2018	110	19	1689	Mortality_But_Standing	202	1			6.6	54	33	37	5		
+2018	110	20	1690	Survivor	202	1			13.2	65		57			
+2018	117	1	1778	Survivor	202	1			8.6	40		21			scarnomissingwood
+2018	117	2	1779	Survivor	202	1			7.6	41		25			
+2018	117	3	1780	Survivor	202	1			12.9	60		45			
+2018	117	4	1781	Survivor	202	1			13.3	57		47			
+2018	117	5	1782	Survivor	202	1			25.7	89		78			recovered
+2018	117	6	1783	Survivor	73	1			11.9	53		33			
+2018	117	7	1784	Mortality_Downed	202	1			1.1						almostdead
+2018	117	8	1785	Survivor	202	1			3.3						
+2018	117	9	1786	Survivor	202	1			2.1						
+2018	117	10	1787	Survivor	202	1			1.3						
+2018	117	11	1788	Survivor	202	1			2.2						
+2018	117	12	1789	Mortality_Downed	202	1			1.7						almostdead
+2018	118	1	1790	Survivor	202	1			10.6	53		38			
+2018	118	2	1791	Survivor	202	1			18.2	72		56			
+2018	118	3	1792	Dead_Still_Standing	202	2		1	5.9	25		12			
+2018	118	4	1793	Survivor	202	1			9.7	67		54			
+2018	118	5	1794	Survivor	202	1			11.4	58		43			
+2018	118	6	1795	Survivor	202	1			17.9	74		62			
+2018	118	7	1796	Survivor	202	1			7.2	43		21			rcvd
+2018	118	8	1797	Survivor	202	1			9.3	53		37			
+2018	118	9	1798	Survivor	202	1			15.8	72		58			
+2018	118	10	1799	Mortality_But_Standing	202	1			6.7	42	19	25	5		lvcmbalmostdead
+2018	118	11	1800	Survivor	202	1			6.9	30		14			
+2018	118	12	1801	Survivor	202	1			15.6	74		59			
+2018	118	13	1802	Survivor	202	1			15.1	67		53			
+2018	118	14	1803	Survivor	202	1			20.8	77		66			
+2018	118	15	1804	Survivor	202	1			6.1	40		18			
+2018	118	16	1805	Survivor	202	1			15.5	87		70			
+2018	118	17	1806	Survivor	202	1			17.8	82		67			
+2018	118	18	1807	Survivor	202	1			13.2	60		46			
+2018	141	1	2140	Survivor	202	1			11.6	53		43			
+2018	141	2	2141	Survivor	202	1			11.4	56		48			
+2018	141	3	2142	Survivor	202	1			14.1	72		64			
+2018	141	4	2143	Survivor	73	1			5.1	38		25			
+2018	141	5	2144	Survivor	73	1			5.1	37		25			
+2018	141	6	2145	Survivor	73	1			6.4	47		30			
+2018	141	7	2146	Survivor	73	1			9.4	59		50			
+2018	141	8	2147	Survivor	73	1			6.5	54		38			
+2018	141	9	2148	Survivor	73	1			5	34		23			
+2018	141	10	2149	Survivor	202	1			10.8	50		41			
+2018	141	11	2150	Survivor	202	1			12.8	40		31			
+2018	141	12	2151	Dead_Still_Standing	202	2		2	10.3	43		35		40	hollowtree
+2018	141	13	2152	Survivor	202	1			16	69		58			
+2018	141	14	2153	Survivor	202	1			10.8	66		54			
+2018	141	15	2154	Survivor	202	1			14.6	71		61			
+2018	141	16	2155	Mortality_Downed	202	1			10.6	57		46			hardlean
+2018	141	17	2156	Survivor	202	1			14.9	77		68			
+2018	149	1	2281	Cut_Live	202	1			16.7	67		62			
+2018	149	2	2282	Cut_Live	202	1			13.5	66		59			
+2018	149	3	2283	Cut_Live	202	1			16	72		65			
+2018	149	4	2284	Cut_Live	202	1			11.4	60		48		1	
+2018	149	5	2285	Cut_Live	202	1			11.5	58		46			
+2018	149	6	2286	Survivor	202	1			16.7	82		73			
+2018	149	7	2287	Cut_Live	202	1			12.4	58		48		2	
+2018	149	8	2288	Cut_Live	202	1			12.2	55		40		2	sweeplean
+2018	149	9	2289	Cut_Live	202	1			13.9	60		52			sweeplean
+2018	149	10	2290	Survivor	202	1			16.1	78		68			
+2018	149	11	2291	Mortality_But_Standing	202	1			5.5	35		22			almostdead
+2018	149	12	2292	Survivor	202	1			9.7	43		31			sweep
+2018	149	13	2293	Cut_Live	202	1			5.4	37		22			
+2018	149	14	2294	Cut_Live	202	1			8.9	48		40			
+2018	149	15	2295	Survivor	73	1			12.3	75		66			
+2018	149	16	2296	Cut_Live	202	1			11.8	44		33			sweep
+2018	149	17	2297	Cut_Live	73	1			8.6	63		47			
+2018	149	18	2298	Cut_Live	73	1			13.2	79		72			
+2018	149	19	2299	Cut_Live	202	1			13.1	60		52			sweep
+2018	149	20	2300	Cut_Live	202	1			16.5	69		58			
+2018	149	21	2301	Cut_Live	202	1			14.8	68		61			
+2018	154	1	2346	Survivor	202	1			6.8	33		19			
+2018	154	2	2347	Survivor	202	1			6.6	32		18			
+2018	154	3	2348	Survivor	202	1			7.6	37		23			SE
+2018	154	4	2349	Survivor	202	1			7.2	39		27			sd36.54bd9
+2018	154	5	2350	Survivor	122	1			5.1	27		7			
+2018	154	6	2351	Dead_Downed	122	2		1	7.5	36		23			
+2018	154	7	2352	Survivor	122	1			6.1	33		18			
+2018	154	8	2353	Survivor	202	1			7.4	33		20			
+2018	154	9	2354	Survivor	202	1			11.9	48		36			rcvd
+2018	154	10	2355	Dead_Downed	122	2		1	5.5	30		14			nt4.9
+2018	154	11	2356	Survivor	202	1			22	67		53			
+2018	154	12	2357	Mortality_Downed	122	1			1.7						
+2018	154	13	2358	Mortality_Downed	122	1			2.1						
+2018	154	14	2359	Mortality_Downed	122	1			1.1						lvcmb
+2018	154	15	2360	Survivor	122	1			1.8						
+2018	154	16	2361	Survivor	202	1			2.1						
+2018	154	17	2362	Survivor	122	1			1.8						
+2018	154	18	2363	Mortality_Downed	202	1			3.1						
+2018	154	19	2364	Survivor	122	1			3.2						
+2018	154	20	2365	Survivor	122	1			2.8						
+2018	154	21	2366	Survivor	122	1			1.6						
+2018	154	22	2367	Survivor	122	1			2.5						
+2018	154	23	2368	Survivor	202	1			3.7						
+2018	154	24	2369	Survivor	122	1			1.4						11.71
+2018	164	1	2457	Survivor	202	1			21.6	79		69			d19.3sd37.22s19
+2018	164	2	2458	Survivor	202	1			2						bd3.0sd11.51
+2018	164	3	2459	Survivor	202	1			2.2						
+2018	164	4	2460	Survivor	73	1			1.8						
+2018	164	5	2461	Survivor	73	1			1.1						prevtree0.98
+2018	169	1	2517	Survivor	202	1			17.5	77		69			
+2018	169	2	2518	Survivor	202	1			10.9	69		60			
+2018	169	3	2519	Survivor	202	1			11.4	73		63			
+2018	169	4	2520	Survivor	202	1			9	64		57			
+2018	169	5	2521	Survivor	202	1			15.8	71		65			
+2018	169	6	2522	Survivor	202	1			9	62	49	47	3		
+2018	169	7	2523	Dead_Downed	202	2		2	9.3	54	47	44	3		
+2018	169	8	2524	Survivor	202	1			12.7	57		41			
+2018	169	9	2525	Survivor	202	1			22.9	94		83			
+2018	169	10	2526	Survivor	202	1			11.9	57		49			
+2018	173	1	2557	Survivor	202	1			6.1	25		14			
+2018	173	2	2558	Survivor	19	1			4.4						
+2018	173	3	2559	Survivor	19	1			3.3						
+2018	180	1	2638	Dead_Downed	122	2		2	18.6	72		60			
+2018	180	2	2639	Survivor	202	1			14.4	61		48			
+2018	180	3	2640	Survivor	202	1			12.6	63		51			
+2018	180	4	2641	Survivor	202	1			15.6	72		61			
+2018	180	5	2642	Dead_Downed	122	2		3	10.5	61	57	46	1		bd13.1sd36.9s16
+2018	180	6	2643	Survivor	202	1			9	58		44			
+2018	180	7	2644	Survivor	202	1			11.4	57		46			
+2018	180	8	2645	Survivor	202	1			10.7	50		42			
+2018	180	9	2646	Survivor	202	1			13.3	62		48			
+2018	180	10	2647	Survivor	202	1			11.8	63		50			
+2018	180	11	2648	Survivor	202	1			5.9	29		15			
+2018	180	12	2649	Dead_Downed	122	2		2	11.4	49		39			
+2018	197	1	2850	Survivor	202	1			9.2	53		38			
+2018	197	2	2851	Survivor	202	1			5.3	40		15			
+2018	197	3	2852	Survivor	202	1			6.5	47		28			
+2018	197	4	2853	Survivor	202	1			5.4	40		22			
+2018	197	5	2854	Survivor	202	1			9.9	53		37			
+2018	197	6	2855	Survivor	202	1			19.2	71	50	56	5	5	
+2018	197	7	2856	Survivor	122	1			7	46		27			
+2018	197	8	2857	Survivor	202	1			9.1	51		34			
+2018	197	9	2858	Survivor	202	1			5.6	40		21			
+2018	197	10	2859	Dead_Still_Standing	122	2		2	12.2	63	30	49	9		
+2018	197	11	2860	Survivor	122	1			5.3	36		15			
+2018	197	12	2861	Survivor	202	1			5.4	36		16			
+2018	197	13	2862	Survivor	202	1			5	34		15			
+2018	197	14	2863	Survivor	202	1			6.1	42		23			
+2018	197	15	2864	Survivor	202	1			8.8	52		39			
+2018	197	16	2865	Survivor	122	1			7.2	29		16			
+2018	197	17	2866	Survivor	202	1			10.3	52		39			
+2018	197	18	2867	Survivor	122	1			9.3	46		30			standup
+2018	197	19	2868	Survivor	202	1			10.3	54		41			
+2018	197	20	2869	Survivor	202	1			10.5	54		41			
+2018	197	21	2870	Survivor	202	1			7.6	44		29			
+2018	197	22	2871	Survivor	202	1			12	55		43			
+2018	197	23	2872	Survivor	202	1			7.5	50		35			bd8.7s10sd36.8
+2018	197	24	2873	Survivor	202	1			9.5	54		42			bd11s9sd36.6
+2018	197	25	2874	Survivor	202	1			4.3						
+2018	197	26	2875	Survivor	202	1			2.5						tapedin
+2018	198	1	2876	Survivor	122	1			27.4	118		102			
+2018	198	2	2877	Survivor	202	1			18.3	76		59			
+2018	198	3	2878	Survivor	202	1			5	24		9			nxtr4.7
+2018	198	4	2879	Survivor	202	1			1.1						
+2018	198	5	2880	Survivor	202	1			1						
+2018	198	6	2881	Survivor	202	1			1.6						
+2018	238	1	3305	Survivor	73	1			8.2	60		38			
+2018	238	2	3306	Survivor	73	1			7.3	48		24			
+2018	238	3	3307	Survivor	202	1			16.5	63		47			
+2018	238	4	3308	Survivor	202	1			10.5	65		50			
+2018	238	5	3309	Survivor	73	1			12.5	64		48			
+2018	238	6	3310	Survivor	73	1			5	33		10			
+2018	238	7	3311	Survivor	122	1			20.5	94		77			
+2018	238	8	3312	Survivor	202	1			22.7	87		70			
+2018	238	9	3313	Survivor	73	1			1.5						
+2018	238	10	3314	Survivor	73	1			1.6						
+2018	238	11	3315	Survivor	202	1			1.3						
+2018	238	12	3316	Survivor	202	1			1.4						
+2018	238	13	3317	Survivor	202	1			1.7						
+2018	238	14	3318	Survivor	202	1			1.4						
+2018	238	15	3319	Survivor	202	1			1.9						
+2018	238	16	3320	Survivor	202	1			1.1						
+2018	238	17	3321	Survivor	202	1			2.5						
+2018	238	18	3322	Survivor	202	1			1.6						
+2018	238	19	3323	Survivor	202	1			1.8						
+2018	238	20	3324	Survivor	202	1			1.9						
+2018	238	21	3325	Survivor	202	1			2.4						
+2018	238	22	3326	Survivor	202	1			2.1						
+2018	238	23	3327	Survivor	202	1			2.7						
+2018	238	24	3328	Survivor	202	1			2.8						
+2018	238	25	3329	Survivor	202	1			1.2						
+2018	238	26	3330	Survivor	202	1			1.9						
+2018	238	27	3331	Survivor	202	1			1.3						
+2018	238	28	3332	Survivor	202	1			2						
+2018	238	29	3333	Survivor	202	1			2.1						
+2018	240	1	3347	Survivor	202	1			8.2	47		34			
+2018	240	2	3348	Survivor	202	1			14.6	68		57			
+2018	240	3	3349	Survivor	202	1			6.4	39		28		4	
+2018	240	4	3350	Survivor	202	1			7.1	32		18			
+2018	240	5	3351	Survivor	202	1			12.4	58		50			
+2018	240	6	3352	Survivor	202	1			6.4	38		20			
+2018	240	7	3353	Survivor	202	1			6.5	42		20			
+2018	240	8	3354	Survivor	202	1			15.9	65		55			
+2018	240	9	3355	Survivor	202	1			10.6	59		49			
+2018	240	10	3356	Survivor	202	1			14.6	62		50			
+2018	240	11	3357	Survivor	202	1			9.1	51		36			
+2018	240	12	3358	Survivor	202	1			8.3	49		39			
+2018	240	13	3359	Survivor	202	1			11.6	42		30			nd
+2018	240	14	3360	Survivor	202	1			6.5	32		14			
+2018	240	15	3361	Survivor	202	1			5.3	23		9			
+2018	240	16	3362	Survivor	202	1			18.6	62		52			
+2018	240	17	3363	Survivor	202	1			10.7	54		38			
+2018	240	18	3364	Survivor	202	1			20.2	74		63			
+2018	240	19	3365	Survivor	202	1			18.2	72		61			
+2018	240	20	3366	Survivor	202	1			12.5	55		48			
+2018	240	21	3367	Mortality_Downed	202	1			1.7						
+2018	242	1	3378	Survivor	93	1			5.1	25		12			
+2018	242	2	3379	Mortality_But_Standing	17	1			8	54		29		2	greenneedles
+2018	242	3	3380	Dead_Still_Standing	17	2		1	6.8	45		23			nogreen
+2018	242	4	3381	Survivor	93	1			18.6	92		76			
+2018	242	5	3382	Dead_Downed	17	2		1	10.8	66		49		1	
+2018	242	6	3383	Survivor	202	1			11.7	58		45			
+2018	242	7	3384	Survivor	93	1			6.1	44		22		1	
+2018	242	8	3385	Survivor	108	1			6.8	59		35			
+2018	242	9	3386	Dead_Still_Standing	17	2		1	7.3	50	46	27	1		
+2018	242	10	3387	Dead_Downed	17	2		1	9.3	78		48			
+2018	242	11	3388	Survivor	93	1			12.5	85		64			
+2018	242	12	3389	Survivor	93	1			8.3	49		39			
+2018	242	13	3390	Dead_Downed	17	2		3	7.2	52	51	32	2		
+2018	242	14	3391	Survivor	93	1			13.8	89		67			
+2018	242	15	3392	Survivor	93	1			11.9	76		57			
+2018	242	16	3393	Survivor	202	1			16	75		56			
+2018	242	17	3394	Dead_Still_Standing	108	2		2	8.7	60		42			
+2018	242	18	3395	Dead_Still_Standing	108	2		1	6.6	47		29			bd6.8sd36.59s6
+2018	242	19	3396	Survivor	202	1			12.4	52		38			
+2018	242	20	3397	Survivor	93	1			1.7						
+2018	242	21	3398	Survivor	93	1			1.4						
+2018	242	22	3399	Survivor	17	1			2.6						greenneedles
+2018	242	23	3400	Survivor	17	1			2.3						
+2018	242	24	3401	Survivor	93	1			1.2						
+2018	242	25	3402	Survivor	17	1			1.7						
+2018	242	26	3403	Survivor	93	1			2						
+2018	242	27	3404	Survivor	17	1			1.2						
+2018	242	28	3405	Survivor	93	1			1.9						
+2018	242	29	3406	Survivor	93	1			1.4						
+2018	242	30	3407	Survivor	17	1			3.4						
+2018	243	1	3408	Survivor	93	1			12.4	80		62			
+2018	243	2	3409	Survivor	93	1			10.2	66		49			
+2018	243	3	3410	Dead_Still_Standing	202	2		2	10	71	16	57	9		
+2018	243	4	3411	Mortality_But_Standing	93	1			6.8	50		30			
+2018	243	5	3412	Survivor	202	1			11.2	65		45			
+2018	243	6	3413	Survivor	202	1			16.8	85		67			
+2018	243	7	3414	Survivor	202	1			12.4	73		56			
+2018	243	8	3415	Survivor	202	1			10.5	52		36			
+2018	243	9	3416	Survivor	202	1			10.5	68		43			alive
+2018	243	10	3417	Survivor	93	1			15	78		57			
+2018	243	11	3418	Survivor	202	1			11.1	66		49			
+2018	243	12	3419	Survivor	202	1			15	80		60			
+2018	243	13	3420	Survivor	202	1			5	21		10			5.0aboveswell
+2018	243	14	3421	Mortality_Downed	202	1			1.1						
+2018	243	15	3422	Survivor	202	1			1.1						
+2018	243	16	3423	Survivor	202	1			1.7						
+2018	251	1	3527	Survivor	93	1			8.8	51		36			
+2018	251	2	3528	Survivor	202	1			6.5	41		22			
+2018	251	3	3529	Survivor	202	1			8.7	47		33			
+2018	251	4	3530	Survivor	202	1			7.6	49		29			
+2018	251	5	3531	Survivor	202	1			6.2	33		16			
+2018	251	6	3532	Survivor	93	1			5.9	38		19			
+2018	251	7	3533	Mortality_But_Standing	17	1			5.4	51		27			
+2018	251	8	3534	Survivor	202	1			11.9	66		53			
+2018	251	9	3535	Survivor	93	1			11.3	72		53			
+2018	251	10	3536	Survivor	93	1			10.1	70		55			
+2018	251	11	3537	Dead_Downed	93	2		2	9.7	69		54			
+2018	251	12	3538	Mortality_But_Standing	93	1			5.7	50	34	26	3		
+2018	251	13	3539	Mortality_But_Standing	202	1			8.5	54	30	40	5		
+2018	251	14	3540	Survivor	202	1			7.9	66	47	47	4		
+2018	251	15	3541	Survivor	93	1			12.7	72		56			
+2018	251	16	3542	Dead_Still_Standing	17	2		1	8.2	67		28			
+2018	251	17	3543	Survivor	17	1			10	66		47			
+2018	251	18	3544	Survivor	202	1			10	61		46			
+2018	251	19	3545	Survivor	202	1			7.8	52		27			
+2018	251	20	3546	Survivor	202	1			7.5	45		24			
+2018	251	21	3547	Mortality_But_Standing	202	1			17.1	82		67			
+2018	251	22	3548	Dead_Still_Standing	202	2		1	9.1	50		30			
+2018	251	23	3549	Mortality_Downed	202	1			6.6	49		30			brokealive
+2018	251	24	3550	Survivor	202	1			17.4	70		51			
+2018	251	25	3551	Survivor	93	1			7.2	38		18			
+2018	251	26	3552	Survivor	93	1			13	52		37			
+2018	251	27	3553	Survivor	202	1			3.5						
+2018	251	28	3554	Survivor	93	1			4.3						
+2018	251	29	3555	Survivor	93	1			2.3						
+2018	251	30	3556	Survivor	202	1			1.5						
+2018	251	31	3557	Survivor	202	1			1						
+2018	251	32	3558	Mortality_Downed	93	1			1.9						
+2018	251	33	3559	Survivor	93	1			1.5						
+2018	251	34	3560	Survivor	93	1			1.6						
+2018	276	1	4062	Survivor	202	1			6.7	29		13			
+2018	276	2	4063	Survivor	202	1			16.5	61		52			
+2018	276	3	4064	Survivor	202	1			7.9	31		12			
+2018	276	4	4065	Survivor	202	1			17.2	69		58			slp30
+2018	276	5	4066	Survivor	202	1			9.1	41		29			
+2018	276	6	4067	Survivor	202	1			6.2	37		22			
+2018	276	7	4068	Survivor	202	1			6.2	43		25			slp57
+2018	276	8	4069	Survivor	202	1			6.1	40		28			slp56
+2018	276	9	4070	Survivor	202	1			9.3	46		32			
+2018	276	10	4071	Survivor	202	1			9.6	48		37			
+2018	276	11	4072	Survivor	202	1			9.1	55		40			
+2018	276	12	4073	Survivor	202	1			8.3	41		26			
+2018	276	13	4074	Survivor	202	1			6	36		25			slp23
+2018	276	14	4075	Survivor	202	1			5.3	34		16			
+2018	276	15	4076	Survivor	73	1			8	41	25	25	5		recovered
+2018	276	16	4077	Survivor	202	1			5.9	41		19			d6.8s2dist36.7
+2018	276	17	4078	Survivor	202	1			8.6	50		36			d9.7s10sd36.2
+2018	276	18	4079	Survivor	202	1			7.6	52		34			
+2018	276	19	4080	Survivor	202	1			7	31		18			
+2018	276	20	4081	Survivor	202	1			9.5	46		27			
+2018	276	21	4082	Survivor	202	1			5.4	26		13			
+2018	276	22	4083	Survivor	73	1			15.8	73		60			
+2018	276	23	4084	Survivor	202	1			7.7	35		22			
+2018	276	24	4085	Survivor	202	1			7.7	36		22			slp44
+2018	276	25	4086	Survivor	202	1			5.3	28		13			
+2018	276	26	4087	Survivor	202	1			7.8	42		28			
+2018	276	27	4088	Mortality_Downed	202	1			3.9						
+2018	280	1	4111	Survivor	108	1			7	60		43			
+2018	280	2	4112	Survivor	108	1			5.8	60		32			
+2018	280	3	4113	Survivor	108	1			8.4	57		46			
+2018	280	4	4114	Survivor	108	1			7	59		43			
+2018	280	5	4115	Dead_Downed	108	2		1	8.4	65		51			
+2018	280	6	4116	Dead_Downed	108	2		1	6	61		44			
+2018	280	7	4117	Survivor	108	1			5.8	60		43			
+2018	280	8	4118	Survivor	108	1			5.7	53		27			
+2018	280	9	4119	Dead_Downed	108	2		1	6.8	59		44			
+2018	280	10	4120	Survivor	108	1			5.2	49		24			
+2018	280	11	4121	Survivor	108	1			6.7	53		34			
+2018	280	12	4122	Survivor	108	1			5.3	53		27			
+2018	280	13	4123	Survivor	108	1			5.4	52		29			
+2018	280	14	4124	Survivor	108	1			6.1	52		38			
+2018	280	15	4125	Survivor	108	1			6.3	52		38			
+2018	280	16	4126	Survivor	108	1			6.3	54		37			
+2018	280	17	4127	Survivor	108	1			5.9	55		30			
+2018	280	18	4128	Survivor	108	1			5	52		23			slp37
+2018	280	19	4129	Survivor	108	1			5.4	46		27			slp42
+2018	280	20	4130	Survivor	108	1			5.5	50		29			slp45
+2018	280	21	4131	Survivor	108	1			5.9	54		28			
+2018	280	22	4132	Survivor	108	1			6.5	55		39			
+2018	280	23	4133	Survivor	108	1			5.6	53		35			
+2018	280	24	4134	Dead_Still_Standing	108	2		1	5.1	49	27	18	3		
+2018	280	25	4135	Survivor	108	1			5.3	51		25			bd5.7S60sd40.4
+2018	280	26	4136	Survivor	108	1			5.7	52		22			bd6.3S61sd42.45
+2018	280	27	4137	Survivor	108	1			8.7	61		48			
+2018	280	28	4138	Survivor	108	1			5.3	48		21			bd6.3S44sd38.93
+2018	280	29	4139	Survivor	108	1			6.6	53		29			
+2018	280	30	4140	Survivor	108	1			5.4	51		22			
+2018	280	31	4141	Survivor	108	1			5.2	50		31			
+2018	280	32	4142	Dead_Still_Standing	108	2		1	6	51		38			
+2018	280	33	4143	Survivor	108	1			6.6	53		27			livefork.recvered
+2018	280	34	4144	Survivor	108	1			6.3	50		33			
+2018	280	35	4145	Survivor	108	1			6.7	56		39			
+2018	280	36	4146	Survivor	108	1			6.5	57		41			
+2018	280	37	4147	Survivor	108	1			5.4	52		24			
+2018	280	38	4148	Survivor	108	1			5.4	54		30			
+2018	280	39	4149	Survivor	108	1			6.4	54		35			
+2018	280	40	4150	Dead_Downed	108	2		1	5.3	48		22			slp61
+2018	280	41	4151	Dead_Downed	108	2		1	5.3	47		32			
+2018	280	42	4152	Survivor	108	1			3.3						
+2018	280	43	4153	Survivor	108	1			4.4						
+2018	280	44	4154	Mortality_Downed	108	1			4.6						btnondlslvcam
+2018	281	1	4155	Mortality_Downed	108	1			10.7	78		66		2	
+2018	281	2	4156	Dead_Downed	108	2		1	10	78		60			
+2018	281	3	4157	Dead_Downed	108	2		1	8.7	70		48			
+2018	281	4	4158	Dead_Still_Standing	108	2		1	10.4	65		54			
+2018	281	5	4159	Dead_Still_Standing	108	2		1	11.1	70		55			
+2018	281	6	4160	Survivor	108	1			7.6	51		35			
+2018	281	7	4161	Survivor	73	1			7.7	43		32			
+2018	281	8	4162	Dead_Still_Standing	108	2		1	10.4	64		46			
+2018	281	9	4163	Survivor	108	1			9.7	68		55			
+2018	281	10	4164	Dead_Still_Standing	108	2		2	11.8	67		52			
+2018	281	11	4165	Dead_Still_Standing	108	2		2	12	68		52			
+2018	281	12	4166	Dead_Still_Standing	108	2		2	12.6	62		49			
+2018	281	13	4167	Survivor	108	1			9.4	64		56			
+2018	281	14	4168	Survivor	108	1			8.5	62		46			
+2018	281	15	4169	Dead_Still_Standing	108	2		3	15.3	62		56			
+2018	283	1	4170	Dead_Downed	108	2		2	5.2	38		18			
+2018	283	2	4171	Survivor	108	1			6.5	48		34			
+2018	283	3	4172	Survivor	108	1			5.7	43		31			
+2018	283	4	4173	Dead_Downed	108	2		2	5.6	30		15			
+2018	283	5	4174	Dead_Still_Standing	108	2		2	6.5	42		30			
+2018	283	6	4175	Dead_Downed	108	2		2	6.1	38		26			
+2018	283	7	4176	Survivor	108	1			5.4	44		29			
+2018	283	8	4177	Dead_Downed	108	2		2	6.8	46	41	34	2		
+2018	283	9	4178	Survivor	108	1			8.7	40		32			
+2018	283	10	4179	Survivor	108	1			6.6	52		43			
+2018	283	11	4180	Survivor	108	1			7	52		40			
+2018	283	12	4181	Survivor	108	1			7.8	54		46			
+2018	283	13	4182	Survivor	108	1			5.9	51		38			
+2018	283	14	4183	Survivor	108	1			7.6	52		40			
+2018	283	15	4184	Survivor	108	1			7.4	51		40			
+2023	12	1	153	Survivor	202	1			25	92					
+2023	12	2	154	Survivor	202	1			5.5	35					
+2023	12	3	155	Survivor	202	1			7.3	51					
+2023	12	4	156	Survivor	202	1			6.2	43					
+2023	12	5	157	Survivor	202	1			14.1	68					
+2023	12	6	158	Survivor	202	1			21.2	74					slp24
+2023	12	7	159	Survivor	202	1			14.2	70					bd17.9, slp30 sd38.10, ntjo bd15.5, sd39.39, slp33
+2023	12	8	160	Survivor	202	1			12.9	68					
+2023	12	9	161	Survivor	202	1			10.1	63					
+2023	12	10	162	Survivor	202	1			8.5	56					
+2023	12	11	163	Survivor	202	1			9.8	62					
+2023	12	12	164	Survivor	73	1			9.9	70					
+2023	12	13	165	Mortality_Downed	202	0	F								
+2023	12	14	166	Survivor	202	1			7.2	50					
+2023	12	15	167	Survivor	202	1			10.9	69					
+2023	12	16	168	Survivor	202	1			9.8	59					
+2023	12	17	169	Survivor	202	1			6.7	45					
+2023	12	18	170	Survivor	202	1			6.9	48					
+2023	12	19	171	Survivor	202	1			9.1	58					
+2023	12	20	172	Dead_Downed	202	0	F								
+2023	12	21	173	Mortality_Downed	202	0	F								dead standing less than 15 feet (14 feet)
+2023	12	22	174	Mortality_But_Standing	202	2		2	7.6	55	28	39	6		
+2023	12	23	175	Survivor	202	1			8	57					
+2023	12	24	176	Survivor	202	1			6.9	50					
+2023	12	25	177	Mortality_But_Standing	202	2		2	7	54	20	35	5		
+2023	12	26	178	Mortality_Downed	202	0	F								dead standing less than 15 feet (13 feet)
+2023	12	27	179	Mortality_Downed	202	0	F								
+2023	12	28	180	Survivor	202	1			5.3	33					
+2023	12	29	181	Survivor	202	1			8.6	58					
+2023	12	30	182	Mortality_Downed	202	0	F								dead standing less than 15 feet (14 feet)
+2023	12	31	183	Survivor	202	1			12	63					
+2023	12	32	184	Survivor	202	1			12.2	64					
+2023	12	33	185	Survivor	202	1			8.4	51					
+2023	12	34	186	Survivor	202	1			5.8	44					
+2023	12	35	187	Survivor	202	1			13.7	71					
+2023	20	1	295	Survivor	202	1			11.4	70	53	56	5		
+2023	20	2	296	Survivor	202	1			9.4	67					
+2023	20	3	297	Mortality_But_Standing	73	2		1	6.4	48					
+2023	20	4	298	Survivor	202	1			20.2	72				2	
+2023	20	5	299	Survivor	73	1			6.2	35					
+2023	20	6	300	Survivor	73	1			7.5	72					
+2023	20	7	301	Survivor	73	1			6.2	54					
+2023	20	8	302	Survivor	73	1			9	77					
+2023	20	9	303	Survivor	202	1			11.3	67					
+2023	20	10	304	Survivor	202	1			9.5	47					bd10.9s32sd37.49
+2023	20	11	305	Survivor	73	1			9.1	67					
+2023	20	12	306	Survivor	202	1			11.9	61					
+2023	20	13	307	Survivor	73	1			7.3	58					
+2023	20	14	308	Survivor	202	1			7.9	55					
+2023	20	15	309	Survivor	202	1			13	78					
+2023	20	16	310	Survivor	202	1			13.8	78					
+2023	20	17	311	Survivor	202	1			17.9	88					
+2023	20	18	312	Survivor	202	1			6.7	37					
+2023	20	19	313	Survivor	73	1			10.2	83					
+2023	20	20	314	Survivor	202	1			8.8	55					
+2023	20	21	315	Survivor	202	1			20.5	74					
+2023	20	22	316	Dead_Still_Standing	73	2		2	5.1	35					
+2023	20	23	317	Dead_Still_Standing	73	2		2	5.7	41					
+2023	20	24	318	Survivor	202	1			12.3	82					
+2023	20	25	319	Survivor	202	1			14.5	85					
+2023	20	26	320	Survivor	73	1			10.5	74					
+2023	20	27	321	Mortality_But_Standing	202	2		1	5.7	27					
+2023	28	1	441	Survivor	73	1			9.4	65					
+2023	28	2	442	Cut_Live	73	3									
+2023	28	3	443	Cut_Live	73	3									
+2023	28	4	444	Cut_Live	73	3									
+2023	28	5	445	Cut_Live	202	3									
+2023	28	6	446	Cut_Live	73	3									
+2023	28	7	447	Survivor	73	1			5.4	51					
+2023	28	8	448	Cut_Live	73	3									
+2023	28	9	449	Survivor	73	1			8.9	65					
+2023	28	10	450	Survivor	73	1			11.1	70					
+2023	28	11	451	Survivor	73	1			10	69					
+2023	28	12	452	Survivor	73	1			10.5	67					
+2023	28	13	453	Cut_Live	73	3									
+2023	28	14	454	Cut_Live	73	3									
+2023	28	15	455	Survivor	73	1			7.8	48					
+2023	28	16	456	Survivor	73	1			10.6	64					
+2023	28	17	457	Survivor	73	1			7.6	51					
+2023	28	18	458	Cut_Live	202	3									
+2023	28	19	459	Survivor	202	1			11.4	54					
+2023	28	20	460	Survivor	73	1			12.9	69					
+2023	28	21	461	Survivor	202	1			16.1	73					
+2023	28	22	462	Survivor	73	1			4.5						
+2023	28	23	463	OffPlot_Live	202	0	G								mistally, s1sd12.05
+2023	38	1	557	Survivor	202	1			21.6	82					
+2023	38	2	558	Survivor	122	1			20.3	79					
+2023	38	3	559	Survivor	202	1			7.8	45					
+2023	38	4	560	Survivor	202	1			9.5	45					
+2023	38	5	561	Survivor	122	1			20.7	84					
+2023	38	6	562	Dead_Downed	108	0	F								
+2023	38	7	563	Survivor	202	1			12.4	70					
+2023	38	8	564	Survivor	202	1			22.8	85					
+2023	38	9	565	Survivor	202	1			17.6	82					
+2023	42	1	576	Survivor	202	1			8.4	38					
+2023	57	1	722	Survivor	202	1			14	75					
+2023	57	2	723	Survivor	122	1			14.7	77					ntjo, bd37.28, buttd 15.1, no slope
+2023	57	3	724	Survivor	122	1			11.6	73					
+2023	57	4	725	Survivor	122	1			14	78					
+2023	57	5	726	Survivor	122	1			15.5	84					
+2023	57	6	727	Survivor	202	1			13.2	62					
+2023	57	7	728	Survivor	202	1			12.6	69					
+2023	57	8	729	Survivor	122	1			10.2	66					
+2023	57	9	730	Survivor	122	1			18.5	82					
+2023	57	10	731	Survivor	122	1			1.1						
+2023	57	11	732	Survivor	122	1			2.9						
+2023	57	12	733	Survivor	122	1			2.1						
+2023	57	13	734	Survivor	122	1			2.9						
+2023	57	14	735	Survivor	202	1			1.9						
+2023	57	15	736	Survivor	122	1			1.2						
+2023	57	16	737	Survivor	202	1			1.7						
+2023	57	17	738	Survivor	202	1			1.7						
+2023	57	18	739	Survivor	202	1			2.2						
+2023	57	19	740	Survivor	202	1			1.5						
+2023	57	20	741	Survivor	122	1			2.8						
+2023	57	21	742	Mortality_Downed	122	0	F								died
+2023	57	22	743	Survivor	202	1			1.5						
+2023	57	23	744	Survivor	202	1			1.4						
+2023	57	24	745	Survivor	122	1			2						
+2023	57	25	746	Survivor	122	1			1.3						
+2023	57	26	747	Survivor	122	1			1.4						
+2023	57	27	748	Survivor	122	1			2.8						
+2023	57	28	749	Survivor	122	1			2.4						
+2023	57	29	750	Survivor	122	1			1.4						
+2023	57	30	4491	Ingrowth_Live	202	1	A		1						after t15
+2023	57	31	4492	Ingrowth_Live	202	1	A		1						after t24
+2023	57	32	4493	Ingrowth_Live	122	1	A		1						after t29
+2023	70	1	934	Survivor	122	1			7.9	39					
+2023	70	2	935	Survivor	202	1			13.1	62					
+2023	70	3	936	Survivor	122	1			9.5	59					
+2023	70	4	937	Survivor	122	1			9.4	55					
+2023	70	5	938	Survivor	122	1			13.3	59					
+2023	70	6	939	Survivor	122	1			9.5	55					
+2023	70	7	940	Survivor	122	1			8.3	50					
+2023	70	8	941	Survivor	122	1			10.8	57					
+2023	70	9	942	Survivor	122	1			5.9	35					
+2023	70	10	943	Survivor	202	1			12.9	60					
+2023	70	11	944	Survivor	202	1			12.6	67					
+2023	70	12	945	Survivor	202	1			8.8	50					
+2023	70	13	4494	Ingrowth_Live	122	1	A		5.6	24					
+2023	70	14	4495	Ingrowth_Live	122	1	A		5.5	35					
+2023	80	1	1086	Dead_Downed	350	0	F								
+2023	80	2	1087	Dead_Still_Standing	202	2		3	19.2	70	22	50	13	4	
+2023	80	3	1088	Survivor	202	1			24	86					
+2023	80	4	1089	Survivor	202	1			14.6	56					
+2023	80	5	1090	Survivor	202	1			4.6						
+2023	80	6	4506	Ingrowth_Live	350	1	A		5.1	31					
+2023	81	1	1091	Survivor	108	1			6.6	50					
+2023	81	2	1092	Survivor	108	1			5.7	48					
+2023	81	3	1093	Survivor	108	1			6.5	45					
+2023	81	4	1094	Survivor	108	1			5.3	48					
+2023	81	5	1095	Survivor	108	1			5.7	48					
+2023	81	6	1096	Dead_Downed	108	0	F								
+2023	81	7	1097	Dead_Downed	108	0	F								
+2023	81	8	1098	Dead_Downed	108	0	F								
+2023	81	9	1099	Dead_Downed	108	0	F								
+2023	81	10	1100	Dead_Downed	108	0	F								
+2023	81	11	1101	Survivor	108	1			6.8	49					
+2023	81	12	1102	Dead_Downed	108	0	F								
+2023	81	13	1103	Dead_Downed	108	0	F								
+2023	81	14	1104	Dead_Downed	108	0	F								
+2023	81	15	1105	Survivor	108	1			6.5	52					
+2023	81	16	1106	Survivor	108	1			8.4	57					
+2023	81	17	1107	Survivor	108	1			7.1	58					
+2023	81	18	1108	Survivor	108	1			7.5	55					
+2023	81	19	1109	Dead_Still_Standing	108	2		2	7.3	48					
+2023	81	20	1110	Survivor	108	1			5.5	44					
+2023	81	21	1111	Survivor	108	1			7.7	58					
+2023	81	22	1112	Survivor	108	1			7.3	54					
+2023	81	23	1113	Survivor	108	1			7.6	54					
+2023	81	24	1114	Dead_Downed	108	0	F								
+2023	81	25	1115	Survivor	108	1			8.2	58					
+2023	81	26	1116	Survivor	108	1			6.6	50					
+2023	81	27	1117	Survivor	108	1			7.8	49					
+2023	81	28	1118	Survivor	108	1			6.8	45					
+2023	81	29	1119	Dead_Downed	108	0	F								
+2023	81	30	1120	Survivor	108	1			9.3	50					
+2023	81	31	1121	Survivor	108	1			5.3	46					
+2023	81	32	1122	Survivor	108	1			7.7	47					
+2023	81	33	1123	Survivor	202	1			5.2	23					
+2023	81	34	1124	Survivor	108	1			6.4	41					
+2023	81	35	1125	Dead_Downed	108	0	F								
+2023	81	36	1126	Survivor	108	1			6.5	47					
+2023	81	37	1127	Dead_Downed	108	0	F								
+2023	81	38	1128	Survivor	108	1			6.7	48					
+2023	81	39	1129	Survivor	108	1			6.8	49					
+2023	81	40	1130	Survivor	108	1			8	46					
+2023	81	41	1131	Survivor	108	1			5.2	42					
+2023	81	42	1132	Survivor	108	1			4.3						
+2023	81	43	1133	Survivor	202	1			3						
+2023	81	44	1134	Survivor	108	1			4.1						
+2023	81	45	4507	Ingrowth_Live	108	1	A		5	59					
+2023	81	46	4508	Ingrowth_Live	108	1	A		5.1	22					
+2023	110	1	1671	Survivor	202	1			14.9	68					
+2023	110	2	1672	Survivor	202	1			12.4	67					
+2023	110	3	1673	Survivor	202	1			13	73					
+2023	110	4	1674	Survivor	202	1			8.8	72					
+2023	110	5	1675	Dead_Still_Standing	73	2		3	9.6	68					
+2023	110	6	1676	Survivor	202	1			17.2	80					
+2023	110	7	1677	OffPlot_Live	202	0	G								bd 13.7s7sd36.86 LD
+2023	110	8	1678	Survivor	202	1			14.9	83					
+2023	110	9	1679	Mortality_But_Standing	202	2		1	13.1	74	39	63	9		
+2023	110	10	1680	Survivor	202	1			11.6	80					
+2023	110	11	1681	Survivor	202	1			13.1	80					
+2023	110	12	1682	Survivor	202	1			11.3	81					
+2023	110	13	1683	Survivor	202	1			14.8	87					
+2023	110	14	1684	Mortality_But_Standing	202	2		2	7.7	56					
+2023	110	15	1685	Survivor	73	1			11.7	85					
+2023	110	16	1686	Survivor	73	1			13	77	59	63	5		
+2023	110	17	1687	Mortality_But_Standing	73	2		1	6.3	50	40	29	2		
+2023	110	18	1688	Survivor	73	1			15.4	84					
+2023	110	19	1689	Mortality_But_Standing	202	2		1	6.5	57	33	37	5		
+2023	110	20	1690	Survivor	202	1			13.6	67					
+2023	117	1	1778	Survivor	202	1			8.7	41					
+2023	117	2	1779	Survivor	202	1			7.8	44					
+2023	117	3	1780	Survivor	202	1			13.3	61					
+2023	117	4	1781	Survivor	202	1			13.8	60					
+2023	117	5	1782	Survivor	202	1			26.1	89					
+2023	117	6	1783	Survivor	73	1			12.1	58					
+2023	117	7	1784	Mortality_Downed	202	0	F								
+2023	117	8	1785	Survivor	202	1			3.4						
+2023	117	9	1786	Survivor	202	1			2.2						
+2023	117	10	1787	Survivor	202	1			1.4						
+2023	117	11	1788	Survivor	202	1			2.3						
+2023	117	12	1789	Mortality_Downed	202	0	F								
+2023	118	1	1790	Survivor	202	1			10.9	54					
+2023	118	2	1791	Survivor	202	1			18.7	75					
+2023	118	3	1792	Dead_Still_Standing	202	2		1	5.9	23					
+2023	118	4	1793	Survivor	202	1			9.8	68					
+2023	118	5	1794	Survivor	202	1			11.5	62					
+2023	118	6	1795	Survivor	202	1			18.3	76					
+2023	118	7	1796	Survivor	202	1			7.4	47					
+2023	118	8	1797	Survivor	202	1			9.8	54					
+2023	118	9	1798	Survivor	202	1			16.1	74					
+2023	118	10	1799	Mortality_But_Standing	202	2		2	6.6	42	19	25	5		
+2023	118	11	1800	Survivor	202	1			7.1	32					
+2023	118	12	1801	Survivor	202	1			15.9	78					
+2023	118	13	1802	Survivor	202	1			15.3	69					
+2023	118	14	1803	Survivor	202	1			21.2	82					
+2023	118	15	1804	Survivor	202	1			6.2	40					
+2023	118	16	1805	Survivor	202	1			15.6	88					
+2023	118	17	1806	Survivor	202	1			18.1	82					
+2023	118	18	1807	Survivor	202	1			13.4	65					
+2023	141	1	2140	Survivor	202	1			11.9	55					
+2023	141	2	2141	Survivor	202	1			11.6	55					
+2023	141	3	2142	Survivor	202	1			14.5	70					
+2023	141	4	2143	Survivor	73	1			5.1	45	39	25	2		
+2023	141	5	2144	Survivor	73	1			5.2	41					
+2023	141	6	2145	Survivor	73	1			6.6	49					
+2023	141	7	2146	Survivor	73	1			9.6	64					
+2023	141	8	2147	Survivor	73	1			6.8	55					
+2023	141	9	2148	Survivor	73	1			5.1	36					
+2023	141	10	2149	Survivor	202	1			11.1	54					
+2023	141	11	2150	Survivor	202	1			13.3	45					
+2023	141	12	2151	Dead_Still_Standing	202	2		3	10.3	43				40	hollow tree
+2023	141	13	2152	Survivor	202	1			16.5	71					
+2023	141	14	2153	Survivor	202	1			11.1	69					
+2023	141	15	2154	Survivor	202	1			14.9	77					
+2023	141	16	2155	Mortality_Downed	202	0	F								died lean greater than 45
+2023	141	17	2156	Survivor	202	1			15.2	81					
+2023	149	1	2281	Cut_Live	202	3									
+2023	149	2	2282	Cut_Live	202	3									
+2023	149	3	2283	Cut_Live	202	3									
+2023	149	4	2284	Cut_Live	202	3									
+2023	149	5	2285	Cut_Live	202	3									
+2023	149	6	2286	Survivor	202	1			17.1	80					
+2023	149	7	2287	Cut_Live	202	3									
+2023	149	8	2288	Cut_Live	202	3									
+2023	149	9	2289	Cut_Live	202	3									
+2023	149	10	2290	Survivor	202	1			16.3	75					
+2023	149	11	2291	Mortality_But_Standing	202	2		2	5.4	35					
+2023	149	12	2292	Survivor	202	1			10.8	45					
+2023	149	13	2293	Cut_Live	202	3									
+2023	149	14	2294	Cut_Live	202	3									
+2023	149	15	2295	Survivor	73	1			12.5	78					
+2023	149	16	2296	Cut_Live	202	3									
+2023	149	17	2297	Cut_Live	73	3									
+2023	149	18	2298	Cut_Live	73	3									
+2023	149	19	2299	Cut_Live	202	3									
+2023	149	20	2300	Cut_Live	202	3									
+2023	149	21	2301	Cut_Live	202	3									
+2023	154	1	2346	Survivor	202	1			6.8	33					few grn needles almost dead
+2023	154	2	2347	Survivor	202	1			6.5	32					few grn needles almost dead
+2023	154	3	2348	Survivor	202	1			8	39					
+2023	154	4	2349	Survivor	202	1			7.5	41					
+2023	154	5	2350	Survivor	122	1			5.1	29					
+2023	154	6	2351	Dead_Downed	122	0	F								fell over died
+2023	154	7	2352	Survivor	122	1			7	37					
+2023	154	8	2353	Survivor	202	1			7.5	34					
+2023	154	9	2354	Survivor	202	1			12.2	50					
+2023	154	10	2355	Dead_Downed	122	0	F								fell over died
+2023	154	11	2356	Survivor	202	1			22.2	68					
+2023	154	12	2357	Mortality_Downed	122	0	F								died
+2023	154	13	2358	Mortality_Downed	122	0	F								died
+2023	154	14	2359	Mortality_Downed	122	0	F								died
+2023	154	15	2360	Survivor	122	1			1.9						
+2023	154	16	2361	Survivor	202	1			2.1						
+2023	154	17	2362	Survivor	122	1			1.8						
+2023	154	18	2363	Mortality_Downed	202	0	F								died
+2023	154	19	2364	Survivor	122	1			3.8						
+2023	154	20	2365	Survivor	122	1			3.3						
+2023	154	21	2366	Survivor	122	1			1.7						
+2023	154	22	2367	Survivor	122	1			2.7						
+2023	154	23	2368	Survivor	202	1			3.8						almost dead
+2023	154	24	2369	Survivor	122	1			1.5						
+2023	164	1	2457	Survivor	202	1			22.5	80					ntjo bd20.3sd38.00s18
+2023	164	2	2458	Survivor	202	1			2.6						bd3.9sd11.50s10
+2023	164	3	2459	Survivor	202	1			2.6						
+2023	164	4	2460	Survivor	73	1			2.7						
+2023	164	5	2461	Survivor	73	1			1.6						
+2023	164	6	4558	Ingrowth_Live	73	1	A		1.4						after t4
+2023	164	7	4559	Ingrowth_Live	73	1	A		1						
+2023	169	1	2517	Survivor	202	1			18.4	77					
+2023	169	2	2518	Survivor	202	1			11.1	70					
+2023	169	3	2519	Survivor	202	1			11.7	73					
+2023	169	4	2520	Survivor	202	1			9.2	65					
+2023	169	5	2521	Survivor	202	1			16.1	74					
+2023	169	6	2522	Survivor	202	1			9.1	62	47	45	3		
+2023	169	7	2523	Dead_Downed	202	0	F								
+2023	169	8	2524	Survivor	202	1			13.1	58					WT Y could die probably wont fall over
+2023	169	9	2525	Survivor	202	1			23.1	100					
+2023	169	10	2526	Survivor	202	1			12.4	62					
+2023	173	1	2557	Survivor	202	1			7.8	31					ntjo 4.9"dbh
+2023	173	2	2558	Survivor	19	1			5.5	27					
+2023	173	3	2559	Survivor	19	1			4.3						
+2023	173	4	4568	Ingrowth_Live	19	1	A		1.1						
+2023	180	1	2638	Dead_Downed	122	0	F								onground
+2023	180	2	2639	Survivor	202	1			14.9	61					
+2023	180	3	2640	Survivor	202	1			13	63					
+2023	180	4	2641	Survivor	202	1			16	72					
+2023	180	5	2642	Dead_Downed	122	0	F								onground
+2023	180	6	2643	Survivor	202	1			9.2	59					
+2023	180	7	2644	Survivor	202	1			11.8	57					
+2023	180	8	2645	Survivor	202	1			11.1	53					
+2023	180	9	2646	Survivor	202	1			14.1	64					
+2023	180	10	2647	Survivor	202	1			12	59					
+2023	180	11	2648	Survivor	202	1			6.4	29					
+2023	180	12	2649	Dead_Downed	122	0	F								onground
+2023	197	1	2850	Survivor	202	1			9.7	53					
+2023	197	2	2851	Survivor	202	1			5.4	40					
+2023	197	3	2852	Survivor	202	1			6.7	47					
+2023	197	4	2853	Survivor	202	1			5.6	40					
+2023	197	5	2854	Survivor	202	1			10.5	54					
+2023	197	6	2855	Survivor	202	1			20.7	75				5	9.6dbhht is not replicable, 22.0 at 4.5dbhht broke top recovered 75ft tall
+2023	197	7	2856	Survivor	122	1			7.4	49					
+2023	197	8	2857	Survivor	202	1			9.6	54					
+2023	197	9	2858	Survivor	202	1			5.7	40					barely alive, few live branches
+2023	197	10	2859	Dead_Still_Standing	122	2		2	12.2	63	30	49	9		
+2023	197	11	2860	Survivor	122	1			5.6	38					
+2023	197	12	2861	Survivor	202	1			5.5	38					
+2023	197	13	2862	Survivor	202	1			5.1	34					
+2023	197	14	2863	Survivor	202	1			6.3	45					
+2023	197	15	2864	Survivor	202	1			9.2	56					
+2023	197	16	2865	Survivor	122	1			7.5	33					
+2023	197	17	2866	Survivor	202	1			10.7	56					
+2023	197	18	2867	Survivor	122	1			9.6	48					
+2023	197	19	2868	Survivor	202	1			10.8	54					
+2023	197	20	2869	Survivor	202	1			10.9	57					
+2023	197	21	2870	Survivor	202	1			7.8	45					
+2023	197	22	2871	Survivor	202	1			12.6	62					
+2023	197	23	2872	Survivor	202	1			7.8	50	16	35	7		bd10.3, slp8, sd36.75, broke top but alive 16ft tall
+2023	197	24	2873	Survivor	202	1			10.2	59					bd13.0, slp6, sd36.54
+2023	197	25	2874	Survivor	202	1			4.4						sd11.32
+2023	197	26	2875	Survivor	202	1			2.6						
+2023	197	27	4585	Ingrowth_Live	202	1	A		5	35					
+2023	198	1	2876	Survivor	122	1			28.5	118					
+2023	198	2	2877	Survivor	202	1			19.2	80					
+2023	198	3	2878	Survivor	202	1			5.2	25					
+2023	198	4	2879	Survivor	202	1			1.4						
+2023	198	5	2880	Survivor	202	1			1.2						
+2023	198	6	2881	Survivor	202	1			1.8						
+2023	198	7	4586	Ingrowth_Live	122	1	A		5.9	40					ntjo micro lees than 1"
+2023	238	1	3305	Survivor	73	1			8.5	61					
+2023	238	2	3306	Survivor	73	1			7.4	49					
+2023	238	3	3307	Survivor	202	1			16.9	63					
+2023	238	4	3308	Survivor	202	1			10.7	65					
+2023	238	5	3309	Survivor	73	1			12.9	65					
+2023	238	6	3310	Survivor	73	1			5.2	33					
+2023	238	7	3311	Survivor	122	1			21.4	95					
+2023	238	8	3312	Survivor	202	1			23.1	83					
+2023	238	9	3313	Survivor	73	1			1.6						
+2023	238	10	3314	Survivor	73	1			1.8						
+2023	238	11	3315	Survivor	202	1			1.5						
+2023	238	12	3316	Survivor	202	1			1.8						
+2023	238	13	3317	Survivor	202	1			1.8						
+2023	238	14	3318	Survivor	202	1			1.4						
+2023	238	15	3319	Survivor	202	1			2						
+2023	238	16	3320	Survivor	202	1			1.2						
+2023	238	17	3321	Survivor	202	1			2.9						
+2023	238	18	3322	Survivor	202	1			1.7						
+2023	238	19	3323	Survivor	202	1			2						
+2023	238	20	3324	Survivor	202	1			2.1						
+2023	238	21	3325	Survivor	202	1			2.6						
+2023	238	22	3326	Survivor	202	1			2.5						
+2023	238	23	3327	Survivor	202	1			2.9						
+2023	238	24	3328	Survivor	202	1			3.2						
+2023	238	25	3329	Survivor	202	1			1.2						
+2023	238	26	3330	Survivor	202	1			2						
+2023	238	27	3331	Survivor	202	1			1.3						
+2023	238	28	3332	Survivor	202	1			2.2						
+2023	238	29	3333	Survivor	202	1			2.3						
+2023	238	30	4616	Ingrowth_Live	202	1	A		1						after t10
+2023	238	31	4617	Ingrowth_Live	202	1	A		1.1						after t14
+2023	238	32	4618	Ingrowth_Live	202	1	A		1						after t25
+2023	240	1	3347	Survivor	202	1			8.4	50					
+2023	240	2	3348	Survivor	202	1			14.9	70					
+2023	240	3	3349	Survivor	202	1			6.4	40				4	
+2023	240	4	3350	Survivor	202	1			7.1	35					
+2023	240	5	3351	Survivor	202	1			12.8	62					
+2023	240	6	3352	Survivor	202	1			6.4	40					
+2023	240	7	3353	Survivor	202	1			6.7	44					
+2023	240	8	3354	Survivor	202	1			16.2	67					
+2023	240	9	3355	Survivor	202	1			10.9	60					
+2023	240	10	3356	Survivor	202	1			14.9	63					
+2023	240	11	3357	Survivor	202	1			9.5	52					
+2023	240	12	3358	Survivor	202	1			8.6	51					
+2023	240	13	3359	Survivor	202	1			11.8	43					
+2023	240	14	3360	Survivor	202	1			6.5	34					
+2023	240	15	3361	Survivor	202	1			5.4	23					
+2023	240	16	3362	Survivor	202	1			19.2	70					
+2023	240	17	3363	Survivor	202	1			11.3	58					
+2023	240	18	3364	Survivor	202	1			20.6	81					
+2023	240	19	3365	Survivor	202	1			18.6	76					
+2023	240	20	3366	Survivor	202	1			12.8	63					
+2023	240	21	3367	Mortality_Downed	202	0	F								died
+2023	242	1	3378	Survivor	93	1			6	29					
+2023	242	2	3379	Mortality_But_Standing	17	2		1	7.9	55					
+2023	242	3	3380	Dead_Still_Standing	17	2		1	6.8	41					
+2023	242	4	3381	Survivor	93	1			19.2	93					
+2023	242	5	3382	Dead_Downed	17	0	F								
+2023	242	6	3383	Survivor	202	1			12.8	65					
+2023	242	7	3384	Survivor	93	1			6.2	45					
+2023	242	8	3385	Survivor	108	1			7.5	65					
+2023	242	9	3386	Dead_Still_Standing	17	2		1	7.3	50	46	27	1		
+2023	242	10	3387	Dead_Downed	17	0	F								
+2023	242	11	3388	Survivor	93	1			12.8	85					
+2023	242	12	3389	Survivor	93	1			8.6	50					
+2023	242	13	3390	Dead_Downed	17	0	F								
+2023	242	14	3391	Survivor	93	1			14.2	91					
+2023	242	15	3392	Survivor	93	1			12.2	78					
+2023	242	16	3393	Survivor	202	1			17.3	80					
+2023	242	17	3394	Dead_Still_Standing	108	2		2	8.6	66					
+2023	242	18	3395	Dead_Still_Standing	108	2		2	6.6	47					bd6.7sd36.7s8
+2023	242	19	3396	Survivor	202	1			14	58					
+2023	242	20	3397	Survivor	93	1			2.1						
+2023	242	21	3398	Survivor	93	1			1.7						
+2023	242	22	3399	Survivor	17	1			2.5						
+2023	242	23	3400	Survivor	17	1			2.4						
+2023	242	24	3401	Survivor	93	1			1.3						
+2023	242	25	3402	Survivor	17	1			1.9						
+2023	242	26	3403	Survivor	93	1			2.2						
+2023	242	27	3404	Survivor	17	1			1.3						
+2023	242	28	3405	Survivor	93	1			2						
+2023	242	29	3406	Survivor	93	1			1.5						
+2023	242	30	3407	Survivor	17	1			4						
+2023	242	31	4620	Ingrowth_Live	202	1	A		5.5	30					
+2023	242	32	4621	Ingrowth_Live	93	1	A		1.3						
+2023	242	33	4622	Ingrowth_Live	93	1	A		1.3						
+2023	243	1	3408	Survivor	93	1			12.4	81					
+2023	243	2	3409	Survivor	93	1			10.4	66					
+2023	243	3	3410	Dead_Still_Standing	17	2		3	9.9	71	15	57	9		SPP change
+2023	243	4	3411	Mortality_But_Standing	93	2		1	6.7	50					
+2023	243	5	3412	Survivor	202	1			11.5	69					
+2023	243	6	3413	Survivor	202	1			17.6	87					
+2023	243	7	3414	Survivor	17	1			12.5	73					SPP change
+2023	243	8	3415	Survivor	202	1			10.6	52					
+2023	243	9	3416	Survivor	17	1			10.5	68				1	SPP change
+2023	243	10	3417	Survivor	93	1			15.2	78					
+2023	243	11	3418	Survivor	202	1			11.6	66					
+2023	243	12	3419	Survivor	202	1			15.6	82					
+2023	243	13	3420	Survivor	202	1			5.4	23					
+2023	243	14	3421	Mortality_Downed	202	0	F								
+2023	243	15	3422	Survivor	202	1			1.1						
+2023	243	16	3423	Survivor	202	1			1.7						
+2023	251	1	3527	Survivor	93	1			9.5	57					
+2023	251	2	3528	Survivor	202	1			7.1	48					
+2023	251	3	3529	Survivor	202	1			9.4	54					
+2023	251	4	3530	Survivor	202	1			8.3	54					
+2023	251	5	3531	Survivor	202	1			6.7	37					
+2023	251	6	3532	Survivor	93	1			6.1	39					
+2023	251	7	3533	Mortality_But_Standing	17	2		1	5.3	49					
+2023	251	8	3534	Survivor	202	1			12.8	75					
+2023	251	9	3535	Survivor	93	1			11.6	72					
+2023	251	10	3536	Survivor	93	1			10.6	76					
+2023	251	11	3537	Dead_Downed	93	0	F								fell down
+2023	251	12	3538	Mortality_But_Standing	93	2		2	5.5	50	36	26	3		
+2023	251	13	3539	Mortality_But_Standing	202	2		2	8.3	54	32	40	5		
+2023	251	14	3540	Survivor	202	1			8	66	53	53	4		
+2023	251	15	3541	Survivor	93	1			13.1	75					
+2023	251	16	3542	Dead_Still_Standing	17	2		1	8.2	57					
+2023	251	17	3543	Survivor	17	1			10	69					
+2023	251	18	3544	Survivor	202	1			11	66					
+2023	251	19	3545	Survivor	202	1			8.4	57					
+2023	251	20	3546	Survivor	202	1			8.1	49					
+2023	251	21	3547	Mortality_But_Standing	202	2		1	17.1	83					
+2023	251	22	3548	Dead_Still_Standing	202	2		3	9.1	46					
+2023	251	23	3549	Mortality_Downed	202	0	F								tree broke off at 7 feet
+2023	251	24	3550	Survivor	202	1			18.6	78					
+2023	251	25	3551	Survivor	93	1			7.5	38					
+2023	251	26	3552	Survivor	93	1			13.9	60					
+2023	251	27	3553	Survivor	202	1			3.8						
+2023	251	28	3554	Survivor	93	1			4.4						
+2023	251	29	3555	Survivor	93	1			2.6						
+2023	251	30	3556	Survivor	202	1			1.6						
+2023	251	31	3557	Survivor	202	1			1.1						
+2023	251	32	3558	Mortality_Downed	93	0	F								
+2023	251	33	3559	Survivor	93	1			1.6						
+2023	251	34	3560	Survivor	93	1			1.7						
+2023	276	1	4062	Survivor	202	1			6.8	29					
+2023	276	2	4063	Survivor	202	1			17	64					
+2023	276	3	4064	Survivor	202	1			8.1	32					
+2023	276	4	4065	Survivor	202	1			17.7	74					
+2023	276	5	4066	Survivor	202	1			9.3	42					
+2023	276	6	4067	Survivor	202	1			6.5	39					
+2023	276	7	4068	Survivor	202	1			6.5	47					out tree, 9.7 55% 42.875
+2023	276	8	4069	Survivor	202	1			6.3	43					out tree. 8.1 55% 42.82
+2023	276	9	4070	Survivor	202	1			9.4	48					
+2023	276	10	4071	Survivor	202	1			9.9	49					
+2023	276	11	4072	Survivor	202	1			9.3	57					
+2023	276	12	4073	Survivor	202	1			8.4	43					out tree 10.1 25% 38.8 feet
+2023	276	13	4074	Survivor	202	1			6.1	38					
+2023	276	14	4075	Survivor	202	1			5.5	36					
+2023	276	15	4076	Survivor	73	1			8	47					broken top with a recovered leader
+2023	276	16	4077	Survivor	202	1			6.1	45					
+2023	276	17	4078	Survivor	202	1			8.9	52					
+2023	276	18	4079	Survivor	202	1			7.9	54					
+2023	276	19	4080	Survivor	202	1			7.2	34					
+2023	276	20	4081	Survivor	202	1			9.9	48					
+2023	276	21	4082	Survivor	202	1			5.6	28					
+2023	276	22	4083	Survivor	73	1			16.4	75					
+2023	276	23	4084	Survivor	202	1			7.8	39					
+2023	276	24	4085	Survivor	202	1			7.9	37					
+2023	276	25	4086	Survivor	202	1			5.3	29					
+2023	276	26	4087	Survivor	202	1			8.2	44					
+2023	276	27	4088	Mortality_Downed	202	0	F								micro tree died
+2023	280	1	4111	Survivor	108	1			7.4	63					
+2023	280	2	4112	Survivor	108	1			5.9	64					
+2023	280	3	4113	Survivor	108	1			9	60					
+2023	280	4	4114	Survivor	108	1			7.5	61					
+2023	280	5	4115	Dead_Downed	108	0	F								fell down
+2023	280	6	4116	Dead_Downed	108	0	F								fell down
+2023	280	7	4117	Survivor	108	1			6.1	63					
+2023	280	8	4118	Survivor	108	1			5.9	55					
+2023	280	9	4119	Dead_Downed	108	0	F								fell down
+2023	280	10	4120	Survivor	108	1			5.2	50					
+2023	280	11	4121	Survivor	108	1			7.3	55					
+2023	280	12	4122	Survivor	108	1			5.5	56					
+2023	280	13	4123	Survivor	108	1			5.8	56					
+2023	280	14	4124	Survivor	108	1			6.5	56					
+2023	280	15	4125	Survivor	108	1			6.9	56					
+2023	280	16	4126	Survivor	108	1			6.6	57					
+2023	280	17	4127	Survivor	108	1			6.1	57					
+2023	280	18	4128	Survivor	108	1			5.4	54					
+2023	280	19	4129	Survivor	108	1			5.8	50					
+2023	280	20	4130	Survivor	108	1			5.8	52					
+2023	280	21	4131	Survivor	108	1			6.1	55					
+2023	280	22	4132	Survivor	108	1			7	58					
+2023	280	23	4133	Survivor	108	1			6	56					
+2023	280	24	4134	Dead_Still_Standing	108	2		3	5	49	27	18	3		
+2023	280	25	4135	Survivor	108	1			5.8	54					
+2023	280	26	4136	Survivor	108	1			6	53					
+2023	280	27	4137	Survivor	108	1			9.4	64					
+2023	280	28	4138	Survivor	108	1			5.7	51					
+2023	280	29	4139	Survivor	108	1			6.8	55					
+2023	280	30	4140	Survivor	108	1			5.8	53					
+2023	280	31	4141	Survivor	108	1			5.5	53					
+2023	280	32	4142	Dead_Still_Standing	108	2		3	6.1	51					
+2023	280	33	4143	Survivor	108	1			6.8	54					one live fork
+2023	280	34	4144	Survivor	108	1			6.7	52					
+2023	280	35	4145	Survivor	108	1			7.2	59					
+2023	280	36	4146	Survivor	108	1			7.1	60					
+2023	280	37	4147	Survivor	108	1			5.8	53					
+2023	280	38	4148	Survivor	108	1			5.8	56					
+2023	280	39	4149	Survivor	108	1			7	60					
+2023	280	40	4150	Dead_Downed	108	0	F								fell down
+2023	280	41	4151	Dead_Downed	108	0	F								fell down
+2023	280	42	4152	Survivor	108	1			3.3						
+2023	280	43	4153	Survivor	108	1			4.5						5% crown
+2023	280	44	4154	Mortality_Downed	108	0	F								
+2023	281	1	4155	Mortality_Downed	108	0	F								
+2023	281	2	4156	Dead_Downed	108	0	F								
+2023	281	3	4157	Dead_Downed	108	0	F								
+2023	281	4	4158	Dead_Still_Standing	108	2		1	10.8	66					
+2023	281	5	4159	Dead_Still_Standing	108	2		1	11.1	70					
+2023	281	6	4160	Survivor	108	1			8.2	52					
+2023	281	7	4161	Survivor	73	1			9	48					
+2023	281	8	4162	Dead_Still_Standing	108	2		1	10.5	64					
+2023	281	9	4163	Survivor	108	1			10.4	71					
+2023	281	10	4164	Dead_Still_Standing	108	2		2	11.8	67					
+2023	281	11	4165	Dead_Still_Standing	108	2		2	11.1	68					
+2023	281	12	4166	Dead_Still_Standing	108	2		2	12.8	62					
+2023	281	13	4167	Survivor	108	1			10.4	69					
+2023	281	14	4168	Survivor	108	1			9.4	64					
+2023	281	15	4169	Dead_Still_Standing	108	2		3	14.6	62					
+2023	281	16	4652	Ingrowth_Live	202	1	A		5.9	28					
+2023	281	17	4653	Ingrowth_Live	202	1	A		5.2	25					
+2023	283	1	4170	Dead_Downed	108	0	F								
+2023	283	2	4171	Survivor	108	1			7	50					
+2023	283	3	4172	Survivor	108	1			6.1	46					
+2023	283	4	4173	Dead_Downed	108	0	F								
+2023	283	5	4174	Dead_Still_Standing	108	2		2	6.5	42					
+2023	283	6	4175	Dead_Downed	108	0	F								<45degrees
+2023	283	7	4176	Survivor	108	1			6	44					
+2023	283	8	4177	Dead_Downed	108	0	F								<45 degrees
+2023	283	9	4178	Survivor	108	1			9.8	40					
+2023	283	10	4179	Survivor	108	1			7.4	54					
+2023	283	11	4180	Survivor	108	1			7.3	53					
+2023	283	12	4181	Survivor	108	1			8.7	57					
+2023	283	13	4182	Survivor	108	1			6.5	53					
+2023	283	14	4183	Survivor	108	1			8.2	52					
+2023	283	15	4184	Survivor	108	1			8	51					
+2023	283	16	4654	Ingrowth_Live	108	1	A		5.1	44					
+2023	283	17	4655	Ingrowth_Live	108	1	A		5.5	24					
