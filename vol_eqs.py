@@ -555,7 +555,7 @@ if __name__ == '__main__':
         )
         print(f"Volume Equation Used: {full_report['voleq']}")
         print(f"Total cuft: {full_report['total_cuft']:.2f}")
-        print(f"Merch BF (6\" top): {full_report['merch_board_feet_primary']:.0f}")
+        print(f"Merch BF (4\" top): {full_report['merch_board_feet_primary']:.0f}")
         
         print("\nHigh-Resolution Taper Profile (every 10th point):")
         print(full_report['taper_data'].iloc[::10, :].to_string(index=False))
